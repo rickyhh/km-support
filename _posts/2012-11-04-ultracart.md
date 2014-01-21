@@ -5,7 +5,7 @@ categories: integrations
 author: Eric Fung
 summary: UltraCart provides an integration option with KISSmetrics. Here's what you need to know.
 ---
-UltraCart provides an integration option with KISSmetrics. Please refer to the administrative panel for where to insert your KISSmetrics API key.
+UltraCart provides an integration option with KISSmetrics. Please refer to the administrative panel for where to insert your KISSmetrics API key. [Where is this key given? If it's to be built as noted below, this should be clearere. There are many places in the documentation that refer to an API. And saying that it is not to be confused with the URL API is not much help.]
 
 ## What's Included
 
